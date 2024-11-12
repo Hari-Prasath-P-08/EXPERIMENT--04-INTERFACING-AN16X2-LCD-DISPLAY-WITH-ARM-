@@ -174,8 +174,8 @@ https://engineeringxpert.com/wp-content/uploads/2022/04/26.png
 
 ## STM 32 CUBE PROGRAM :
 ```c
-# Name: Hari Prasath. P
-# Reg. no.: 212223230070
+// Name: Hari Prasath. P
+// Reg. no.: 212223230070
 
 #include "main.h"
 #include "lcd.h"
